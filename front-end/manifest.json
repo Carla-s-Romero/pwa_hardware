@@ -1,0 +1,15 @@
+{
+    "name": "StarWars App",
+    "short_name": "StarWars",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3e4eb8",
+    "icons": [
+        {
+            "src": "icons/Captura de tela 2024-09-19 215611.png",
+            "sizes": "180x187",
+            "type": "image/png"
+        }
+    ]
+}
